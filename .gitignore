@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Downloaded images & output
+comic/
+merged_comic.jpg
+*.png
+
+# Runtime
+comic_downloader_config.json
+comic_downloader.log
+failure_logs/
